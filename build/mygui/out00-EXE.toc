@@ -1,0 +1,9 @@
+('/home/chris/Workspace/PropagationCalculator/build/mygui/mygui',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1404484608)
